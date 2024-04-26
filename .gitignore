@@ -1,0 +1,7 @@
+config.yaml
+meu_modelo.keras
+testflask.py
+objects/*
+!objects/.gitkeep
+novadrivebank/*
+__pycache__/*
